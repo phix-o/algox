@@ -9,7 +9,7 @@ Contributions are accepted in the following areas:
   - Improving existing implementations
   - Updating the documentation
 
-**Note** If there exists implementation of the same algorithm in the standard library of a language, **dont** use it 😁
+>**Note** If there exists implementation of the same algorithm in the standard library of a language, **dont** use it 😁. Helper functions are allowed though.
 
 <hr />
 May the hacking begin...

@@ -21,4 +21,5 @@ def sort(array: list, ascending=True) -> list:
 
 if __name__ == '__main__':
     array = [4, 2, 3, 45, 8, 1, 2, 0, -5, -12, 10, 45]
-    print(sort(array))
+    print(sort(list(array)))
+    print(sort(list(array), False))

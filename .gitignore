@@ -1,2 +1,4 @@
 # Ignore rust target folder
 target/
+
+trials/
